@@ -1,0 +1,9 @@
+## Interface: 60100
+## Title: BobSkins
+## Author: 10leej
+## Notes: !Beautycase Skins
+## Dependencies: !Beautycase
+## OptionalDeps: BobUI, DBM-Core, Recount, Skada, TinyDPS, Omen, Numeration, rFilter3, rThreat
+
+config.lua
+core.lua
