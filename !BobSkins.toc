@@ -1,5 +1,5 @@
 ## Interface: 60100
-## Title: BobSkins
+## Title: !BobSkins
 ## Author: 10leej
 ## Notes: !Beautycase Skins
 ## Dependencies: !Beautycase

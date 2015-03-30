@@ -1,7 +1,7 @@
 local _, cfg = ... --import config
 local addon, ns = ... --get addon namespace
 
-local MediaPath = "Interface\\AddOns\\BobDBM\\media\\" --Set the media path
+local MediaPath = "Interface\\AddOns\\!BobSkins\\media\\" --Set the media path
 
 cfg.statusbar_texture = MediaPath.."statusbar" --Set the Bar Texture
 cfg.backdrop = "Interface\\Buttons\\WHITE8x8" --backdrop image
